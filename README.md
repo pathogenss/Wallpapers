@@ -20,9 +20,9 @@ Todos:
 <h3 align="center">Kid A Album Cover Mountains</h3>
 <h6 align="center">1400x1400, WebP</h6>
 <center>
-<a href=""> Source Image </a>
+<a href="https://www.reddit.com/r/radiohead/comments/objoll/kid_a_album_cover_with_no_text_absolute"> Source Image </a>
 |
-<a href="https://www.radiohead.com/library/#kida%252Fkid-a"> Real Source </a>
+<a href="https://radiohead.ffm.to/kida"> Real Source </a>
 </center>
 
 ---
@@ -30,3 +30,8 @@ Todos:
 <img src="Wallpapers/Kid A Mnesia Twisted Woods.png" align="center">
 <h3 align="center">Kid A Mnesia Twisted Woods</h3>
 <h6 align="center">2048x1152, PNG</h6>
+<center>
+<a href="https://cdm.link/app/uploads/2021/11/51689210110_ad1f28b716_k.jpg"> Source Image (jpg) </a>
+|
+<a href="https://store.epicgames.com/en-US/p/kid-a-mnesia-exhibition"> Real Source </a>
+</center>
