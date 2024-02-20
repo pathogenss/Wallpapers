@@ -19,6 +19,11 @@ Todos:
 <img src="Wallpapers/Kid A Album Cover Mountains.webp" align="center">
 <h3 align="center">Kid A Album Cover Mountains</h3>
 <h6 align="center">1400x1400, WebP</h6>
+<center>
+<a href=""> Source Image </a>
+|
+<a href="https://www.radiohead.com/library/#kida%252Fkid-a"> Real Source </a>
+</center>
 
 ---
 
