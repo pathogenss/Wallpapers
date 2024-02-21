@@ -33,7 +33,7 @@ Adding another wallpaper:
 <h6 align="center">1400x1400, WebP</h6>
 <center>
 <a href="https://www.reddit.com/r/radiohead/comments/objoll/kid_a_album_cover_with_no_text_absolute"> Source Image (webp) </a>
-|
+<em>|</em>
 <a href="https://radiohead.ffm.to/kida"> Real Source </a>
 </center>
 
@@ -44,7 +44,7 @@ Adding another wallpaper:
 <h6 align="center">2048x1152, PNG</h6>
 <center>
 <a href="https://cdm.link/app/uploads/2021/11/51689210110_ad1f28b716_k.jpg"> Source Image (jpg) </a>
-|
+<em>|</em>
 <a href="https://store.epicgames.com/en-US/p/kid-a-mnesia-exhibition"> Real Source </a>
 </center>
 
@@ -55,7 +55,7 @@ Adding another wallpaper:
 <h6 align="center">1280x1280, PNG</h6>
 <center>
 <a href="https://resources.tidal.com/images/db0a3c91/4d89/4b47/ba47/a4aa289a8b62/1280x1280.jpg")> Source Image (jpg) </a>
-|
+<em>|</em>
 <a href="https://radiohead.ffm.to/twistedwords"> Real Source </a>
 </center>
 
@@ -66,7 +66,7 @@ Adding another wallpaper:
 <h6 align="center">3840x2160, PNG</h6>
 <center>
 <a href="https://www.drsaraharowitz.com/wp-content/uploads/2022/07/1925112-scaled.jpg"> Source Image (png) </a>
-|
+<em>|</em>
 <a href="https://www.drsaraharowitz.com/tampa-therapist"> Real Source </a>
 </center>
 
