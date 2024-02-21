@@ -4,7 +4,7 @@
 
 (All are at least 1280 x 1280, and use lossless file formats)</h3>
 
-<h6 align="center"> Current Wallpaper Count: 4 </h6>
+<h6 align="center"> Current Wallpaper Count: 5 </h6>
 
 ---
 
