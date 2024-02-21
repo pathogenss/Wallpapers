@@ -1,8 +1,10 @@
-<h2 align="center">Wallpapers</h2>
+<h1 align="center">Wallpapers</h1>
 
-<h5 align="center">This is a repository for wallpapers.
+<h3 align="center">This is a repository for wallpapers.
 
-(All are at least 1280 x 1280, and use lossless file formats)</h5>
+(All are at least 1280 x 1280, and use lossless file formats)</h3>
+
+<h6 align="center"> Current Wallpaper Count: 4 </h6>
 
 ---
 
