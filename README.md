@@ -32,7 +32,7 @@ Adding another wallpaper:
 <h3 align="center">Kid A Album Cover Mountains</h3>
 <h6 align="center">1400x1400, WebP</h6>
 <center>
-<a href="https://www.reddit.com/r/radiohead/comments/objoll/kid_a_album_cover_with_no_text_absolute"> Source Image </a>
+<a href="https://www.reddit.com/r/radiohead/comments/objoll/kid_a_album_cover_with_no_text_absolute"> Source Image (WebP) </a>
 |
 <a href="https://radiohead.ffm.to/kida"> Real Source </a>
 </center>
