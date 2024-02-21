@@ -50,3 +50,13 @@ Todos:
 
 ---
 
+<img src="wallpapers/tampa wallpaper.png" align="center">
+<h3 align="center">Tampa Bay Skyline<h/3>
+<h6 align="center">3840x2160, PNG</h6>
+<center>
+<a href="https://www.drsaraharowitz.com/wp-content/uploads/2022/07/1925112-scaled.jpg"> Source Image (png) </a>
+|
+<a href="https://www.drsaraharowitz.com/tampa-therapist"> Real Source </a>
+</center>
+
+---
