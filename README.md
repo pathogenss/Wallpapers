@@ -2,7 +2,7 @@
 
 <h5 align="center">This is a repository for wallpapers.
 
-(All are at least 1400 x 1400, and use lossless file formats)</h5>
+(All are at least 1280 x 1280, and use lossless file formats)</h5>
 
 ---
 
@@ -11,6 +11,7 @@ Todos:
 - Table of contents
 - Navigation
 - Tools
+- Contributing
 - Organization? Sort wallpapers by theme or color?
 - Source links? Convert / upscale everything to one size / one file format?
     
@@ -35,3 +36,17 @@ Todos:
 |
 <a href="https://store.epicgames.com/en-US/p/kid-a-mnesia-exhibition"> Real Source </a>
 </center>
+
+---
+
+<img src="Wallpapers/These Are My Twisted Words Album Cover.png" align="center">
+<h3 align="center">These Are My Twisted Words Album Cover</h3>
+<h6 align="center">1280x1280, PNG</h6>
+<center>
+<a href="https://resources.tidal.com/images/db0a3c91/4d89/4b47/ba47/a4aa289a8b62/1280x1280.jpg")> Source Image (jpg) </a>
+|
+<a href="https://radiohead.ffm.to/twistedwords"> Real Source </a>
+</center>
+
+---
+
