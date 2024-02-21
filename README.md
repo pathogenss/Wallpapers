@@ -8,14 +8,14 @@
 
 ---
 
+<!--
 Todos:
 - Table of contents / Navigation
 - Tools for wallpapers (e.g. converters)
 - Contributing
 - Organization? Sort wallpapers by theme or color?
 - Source links? Convert / upscale everything to one size / one file format?
-    
----
+-->
 
 <!--
 Adding another wallpaper:
