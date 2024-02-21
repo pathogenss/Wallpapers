@@ -60,9 +60,11 @@ Adding another wallpaper:
 </center>
 
 ---
+
 <style>
     a {text-align: center;}
 </style>
+
 <img src="Wallpapers/Tampa Bay Skyline.png" align="center">
 <h3 align="center">Tampa Bay Skyline</h3>
 <h6 align="center">3840x2160, PNG</h6>
