@@ -60,7 +60,9 @@ Adding another wallpaper:
 </center>
 
 ---
-
+<style>
+    
+</style>
 <img src="Wallpapers/Tampa Bay Skyline.png" align="center">
 <h3 align="center">Tampa Bay Skyline</h3>
 <h6 align="center">3840x2160, PNG</h6>
@@ -76,7 +78,7 @@ Adding another wallpaper:
 <h3 align="center"> The Lost Petals Album Cover</h3>
 <h6 align="center">1280x1280, PNG</h6>
 <center>
-<a href="https://resources.tidal.com/images/be330388/8097/4683/98f0/283df127bc54/1280x1280.jpg" align="center">Source Image (png) </a>
+<a align="center" href="https://resources.tidal.com/images/be330388/8097/4683/98f0/283df127bc54/1280x1280.jpg">Source Image (png) </a>
 <em>|</em>
-<a href="https://listen.tidal.com/album/313949464/credits" align="center">Real Source</a>
+<a align="center" href="https://listen.tidal.com/album/313949464/credits">Real Source</a>
 </center>
