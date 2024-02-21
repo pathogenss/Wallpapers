@@ -76,7 +76,7 @@ Adding another wallpaper:
 <h3 align="center"> The Lost Petals Album Cover</h3>
 <h6 align="center">1280x1280, PNG</h6>
 <center>
-<a href="https://resources.tidal.com/images/be330388/8097/4683/98f0/283df127bc54/1280x1280.jpg"> Source </a>
+<a href="https://resources.tidal.com/images/be330388/8097/4683/98f0/283df127bc54/1280x1280.jpg"> <t align="center">Source Image (png) </a>
 <em>|</em>
-<a href="https://listen.tidal.com/album/313949464/credits"> Real Source</a>
+<a href="https://listen.tidal.com/album/313949464/credits"> <t align="center"></h6>Real Source</a>
 </center>
