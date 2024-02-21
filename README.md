@@ -50,7 +50,7 @@ Todos:
 
 ---
 
-<img src="wallpapers/tampa wallpaper.png" align="center">
+<img src="Wallpapers/tampa wallpaper.png" align="center">
 <h3 align="center">Tampa Bay Skyline<h/3>
 <h6 align="center">3840x2160, PNG</h6>
 <center>
