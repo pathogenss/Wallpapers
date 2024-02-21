@@ -9,15 +9,24 @@
 ---
 
 Todos:
-- Template / Formatting
-- Table of contents
-- Navigation
-- Tools
+- Table of contents / Navigation
+- Tools for wallpapers (e.g. converters)
 - Contributing
 - Organization? Sort wallpapers by theme or color?
 - Source links? Convert / upscale everything to one size / one file format?
     
 ---
+
+<!--
+Adding another wallpaper:
+- Image
+- H3 heading with the name, must match file name
+- H6 heading with file size and type
+- Source link, direct link to the image
+- a `|`
+- Real Source, link to the origin of the image
+- Make sure everything is formatted with proper Title Case and centered!
+-->
 
 <img src="Wallpapers/Kid A Album Cover Mountains.webp" align="center">
 <h3 align="center">Kid A Album Cover Mountains</h3>
