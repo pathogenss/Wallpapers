@@ -78,5 +78,5 @@ Adding another wallpaper:
 <p align="center">
 <a align="center" href="https://resources.tidal.com/images/be330388/8097/4683/98f0/283df127bc54/1280x1280.jpg">Source Image (png)</a>
 <em>|</em>
-<a href="album.link/i/1704091644">Real Source</a>
+<a href="https://album.link/i/1704091644">Real Source</a>
 </p>
