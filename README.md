@@ -61,7 +61,7 @@ Adding another wallpaper:
 
 ---
 <style>
-    
+    a {text-align: center;}
 </style>
 <img src="Wallpapers/Tampa Bay Skyline.png" align="center">
 <h3 align="center">Tampa Bay Skyline</h3>
