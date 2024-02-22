@@ -80,3 +80,14 @@ Adding another wallpaper:
 <em>|</em>
 <a href="https://album.link/i/1704091644">Real Source</a>
 </p>
+
+---
+
+<img src ="Wallpapers/GNR Appetite for Destruction Album Cover.png" align="center" >
+<h3 align="center"> GNR Appetite for Destruction Album Cover</h3>
+<h6 align="center">1280x1280, PNG</h6>
+<p align="center">
+<a align="center" href="https://resources.tidal.com/images/c5466e86/ff43/4724/aec5/344144c99c17/1280x1280.jpg">Source Image (png)</a>
+<em>|</em>
+<a href="https://album.link/us/i/1377813284">Real Source</a>
+</p>
