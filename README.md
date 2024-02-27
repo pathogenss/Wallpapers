@@ -4,7 +4,7 @@
 
 <h4 align = "center">(All are at least 1280 x 1280, and use lossless file formats)</h4>
 
-<h6 align="center"> Current Wallpaper Count: 6</h6>
+<h6 align="center"> Current Wallpaper Count: 7</h6>
 
 ---
 
