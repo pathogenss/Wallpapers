@@ -91,3 +91,14 @@ Adding another wallpaper:
 <em>|</em>
 <a href="https://album.link/us/i/1377813284">Real Source</a>
 </p>
+
+---
+
+<img src="Wallpapers/Sleep Well Single Cover.png" align="center">
+<h3 align="center">Sleep Well Single Cover</h3>
+<h6 align="center">1280x1280, PNG</h6>
+<p align="center">
+<a align="center" href="https://resources.tidal.com/images/f2ff369d/a93b/437e/9160/9dff6cea0bf2/1280x1280.jpg">Source Image (png)</a>
+<em>|</em>
+<a href="https://song.link/us/i/1680788450">Real Source</a>
+</p>
